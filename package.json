@@ -2,7 +2,6 @@
   "name": "responsive-chirstmas-website-clone",
   "version": "1.0.0",
   "description": "---",
-  "main": "index.js",
   "scripts": {
     "clean": "rimraf dist",
     "start": "npm run clean && parcel serve -p 3000 index.html",
